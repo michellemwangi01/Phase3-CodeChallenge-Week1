@@ -27,9 +27,15 @@ The code demonstrates the function by accepting a string into the function and p
 
 ## Project Setup
 1. Clone the repository
-```git@github.com:michellemwangi01/Phase3-CodeChallenge-Week1.git```
+```
+git clone git@github.com:michellemwangi01/Phase3-CodeChallenge-Week1.git
+```
+
 2. Install required dependencies
-```cd into the project director```
+```
+cd into the project director
+```
+
 3. Authors & License
 Authored by:
 
