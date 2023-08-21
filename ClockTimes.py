@@ -14,7 +14,7 @@ def twelve_to_twentyfour(hours, minutes, period):
             if period == 'pm' and hours == 12:
                 return f"{hours:02d}{minutes:02d}HRS"
         else:
-            return "Enter a valid time. Hours between 0 - 12, minutes between 0 - 59 & period either am / pm."
+            return "Error! Enter a valid time. Hours between 0 - 12, minutes between 0 - 59 & period either am / pm."
     except TypeError:
         print("TypeError: Ensure Minutes and Hours are integer values.")
 

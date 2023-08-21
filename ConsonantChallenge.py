@@ -22,7 +22,7 @@ while True:
     if your_string.isalpha():
         break
     else:
-        print("Your Input Must Be A String With No Special Characters Or Spaces.")
+        print("Error! Your Input Must Be A String With No Special Characters Or Spaces.")
 
 print(highest_consonant_value(your_string))
 

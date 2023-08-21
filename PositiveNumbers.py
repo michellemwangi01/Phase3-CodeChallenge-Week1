@@ -13,7 +13,7 @@ while count < 4:
         value_list.append(value)
         count += 1
     except ValueError:
-        print("Value Must Be An Integer.")
+        print("Error! Value Must Be An Integer.")
 a,b,c = value_list
 print(a,b,c)
 
